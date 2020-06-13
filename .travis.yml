@@ -2,9 +2,6 @@ language: python
 matrix:
   include:
     - python: "3.7.0"
-    - python: "nightly"
-  allow_failures:
-    - python: "nightly"
 
 # command to install dependencies
 install:
