@@ -17,6 +17,7 @@
     <description lang="en_GB">Add Trakt add to watchlist button to the context menu in your library.</description>
     <platform>all</platform>
     <source>https://github.com/Razzeee/context.trakt.addtowatchlist</source>
+    <license>GPL-2.0-or-later</license>
     <assets>
       <icon>icon.png</icon>
     </assets>
